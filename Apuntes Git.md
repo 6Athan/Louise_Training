@@ -9,6 +9,7 @@ git clone  https://github.com/6Athan/AprendiendoCon_Luis.git para
 
 crear un repositorio de Git Hub
 
+git checkout < comando para cambiar de version del proyecto
 
 git add .
 
@@ -30,7 +31,6 @@ ESC SHITF + ZZ
  git commit --amend para editar ultimos parametros enviados
 
 git pull - obtiene datos actualizados del poyecto
-
 
 
 
